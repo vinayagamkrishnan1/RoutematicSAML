@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.routematicsmal"
+    namespace "eygsl.cbs.routematicqa"
     defaultConfig {
-        applicationId "com.routematicsmal"
+        applicationId "eygsl.cbs.routematicqa"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
